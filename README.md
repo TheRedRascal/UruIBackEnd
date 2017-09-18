@@ -10,5 +10,5 @@ and look for the connectionStrings tag.
 On this tag you must update : data source, id and password. This information should be updated with your SQL Server
 connection information.
 
-Use the SQL Server folder with the scripts to create and deploy the database on your SQL Server. Just run the main
+Use the SQL Server folder : Sql Scritps; with the scripts to create and deploy the database on your SQL Server. Just run the main
 script.
