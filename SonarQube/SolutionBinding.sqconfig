@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://localhost:9000",
+  "Organization": null,
+  "ProjectKey": "SAS_16",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AV6IveFci4fQxTUuW5Ow",
+      "ProfileTimestamp": "2017-09-15T22:31:38-05:00"
+    }
+  }
+}
